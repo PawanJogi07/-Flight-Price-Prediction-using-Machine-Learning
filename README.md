@@ -8,6 +8,10 @@ The objective is to build a predictive model that can estimate flight prices bas
 
 ---
 
+# ipynb link -- https://github.com/PawanJogi07/-Flight-Price-Prediction-using-Machine-Learning/blob/main/Flight%20Prediction%20EDA.ipynb
+
+
+
 ## 🚀 Features
 
 * Data Cleaning and Preprocessing
